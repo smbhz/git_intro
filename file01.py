@@ -1,4 +1,6 @@
 def greet(name):
-	print("hello ",name)
+	print("knock knock knoch",name)
+	print("knock knock knoch",name)
+	print("knock knock knoch",name)
 
 greet("baqir")
